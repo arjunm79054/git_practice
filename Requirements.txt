@@ -1,0 +1,10 @@
+this is requiremts filer
+python
+mysql
+java
+node js
+dynamodb
+grafabna
+terraform 
+aws cloud formation
+ec2
